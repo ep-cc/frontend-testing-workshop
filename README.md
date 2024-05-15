@@ -19,8 +19,8 @@ The [React app](./tourist-app/) we test in this workshop is a simplified version
 # Background materials
 
 ## Slides
-- Frontend testing (WIP)
-- Unit testing with Vitest and React Testing Library (WIP)
+- [Frontend testing](https://docs.google.com/presentation/d/15Fl22gsDlxIaVR03MPCPJOqjyV0AtzJyODzS_dsjLCs/edit?usp=sharing)
+- [Unit testing with Vitest and React Testing Library](https://docs.google.com/presentation/d/139b0HW6vwO89y8KWZXf9epjveyNFUaJaSTSOabWU4UU) (WIP)
 - Integration testing with Cypress (WIP)
 
 ## Articles
