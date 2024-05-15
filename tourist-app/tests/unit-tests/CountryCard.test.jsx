@@ -1,6 +1,6 @@
 import { test, expect, describe } from 'vitest';
 import '@testing-library/jest-dom/vitest';
-import { render, screen, waitFor } from '@testing-library/react';
+import { render, screen } from '@testing-library/react';
 import CountryCard from '../../src/CountryCard';
 
 
