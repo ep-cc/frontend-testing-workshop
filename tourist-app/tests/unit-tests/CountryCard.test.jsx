@@ -4,7 +4,7 @@ import { render, screen } from '@testing-library/react';
 import CountryCard from '../../src/CountryCard';
 
 
-describe('Country component', () => {
+describe('CountryCard component', () => {
   
   test('downloads country data using API to display the proper values', async () => {
     render(<CountryCard cca3='HUN'/>);
