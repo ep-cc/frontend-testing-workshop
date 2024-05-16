@@ -10,7 +10,7 @@ The [React app](./tourist-app/) we test in this workshop is a simplified version
 
 ## Unit tests
 
-(WIP)
+See a couple of examples in the [tourist-app/tests/unit-tests](./tourist-app/tests/unit-tests/) folder.
 
 ## Integration tests
 
@@ -25,6 +25,7 @@ The [React app](./tourist-app/) we test in this workshop is a simplified version
 
 ## Articles
 - [Vitest with React Testing Library](https://www.robinwieruch.de/vitest-react-testing-library/)
+- [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
 
 ## Dependencies
 - [Vitest](https://vitest.dev/)
