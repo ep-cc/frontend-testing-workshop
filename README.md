@@ -9,22 +9,23 @@ The [React app](./tourist-app/) we test in this workshop is a simplified version
 # Tests
 
 ## Unit tests
-
-(WIP)
+See a couple of examples in the [tourist-app/tests/unit-tests](./tourist-app/tests/unit-tests/) folder.
 
 ## Integration tests
-
-(WIP)
+(WIP) To be added later.
 
 # Background materials
 
 ## Slides
 - [Frontend testing](https://docs.google.com/presentation/d/15Fl22gsDlxIaVR03MPCPJOqjyV0AtzJyODzS_dsjLCs/edit?usp=sharing)
-- [Unit testing with Vitest and React Testing Library](https://docs.google.com/presentation/d/139b0HW6vwO89y8KWZXf9epjveyNFUaJaSTSOabWU4UU) (WIP)
+- [Unit testing with Vitest and React Testing Library](https://docs.google.com/presentation/d/139b0HW6vwO89y8KWZXf9epjveyNFUaJaSTSOabWU4UU)
 - Integration testing with Cypress (WIP)
 
 ## Articles
 - [Vitest with React Testing Library](https://www.robinwieruch.de/vitest-react-testing-library/)
+- [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
+- [Vitest matchers](https://vitest.dev/api/expect.html)
+- [jest-dom documentation](https://github.com/testing-library/jest-dom)
 
 ## Dependencies
 - [Vitest](https://vitest.dev/)

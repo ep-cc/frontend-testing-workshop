@@ -1,7 +1,14 @@
-import { afterAll, afterEach, beforeAll } from 'vitest';
-import '@testing-library/jest-dom';
+// Vitest configuration
+import { expect, afterAll, afterEach, beforeAll } from 'vitest';
+import * as matchers from '@testing-library/jest-dom/matchers';
+// Add jest-dom matchers to expect, so we can use DOM-matchers such as `toHaveTextContent` etc.
+expect.extend(matchers);
+
+// MSW configuration
 import { setupServer } from 'msw/node';
 import { HttpResponse, http } from 'msw';
+
+// App related imports
 import { API_URL } from '../../src/api';
 
 const countries = [

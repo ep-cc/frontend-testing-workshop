@@ -1,5 +1,4 @@
 import { test, expect, describe } from 'vitest';
-import '@testing-library/jest-dom/vitest';
 import { render, screen } from '@testing-library/react';
 import Star from '../../src/Star';
 import userEvent from '@testing-library/user-event';
